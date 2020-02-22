@@ -28,6 +28,8 @@ func main() {
 		err error
 	)
 
+	fmt.Println("Use git!")
+
 	// 初始化命令行参数
 	initArgs()
 
