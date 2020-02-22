@@ -28,6 +28,8 @@ func main() {
 		err error
 	)
 
+	// 原本有
+
 	// 初始化命令行参数
 	initArgs()
 
